@@ -32,7 +32,7 @@ const AboutPage = () => {
             Beatae, maxime maiores? Quos, necessitatibus laborum sapiente at ad
             aperiam aut asperiores.
           </p>
-          <p>This is projects from udemy.</p>
+          <p>This is projects from Udemy.</p>
         </article>
       </Wrapper>
     </main>
